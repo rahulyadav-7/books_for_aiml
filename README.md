@@ -2,7 +2,7 @@
 
 ### Start with End to End project videos of Krish Naik, then go through these books thoroughly to become greatly equipped in cracking any data science AI/ML interview.
 
-- [End to End Project Video of Krish Naik](https://www.youtube.com/watch?v=pxk1Fr33-L4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=21&pp=iAQB)
+- [End to End Project Video](https://www.youtube.com/watch?v=pxk1Fr33-L4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG&index=21&pp=iAQB)
 
 | Purpose/Stage                                   | Book Title                                                                                           | Author(s)                                     | Publisher/Year                               | File Format |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------|-------------|
