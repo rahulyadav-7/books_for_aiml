@@ -1,5 +1,7 @@
 # Books for AI/ML
 
+### Start with End to End project videos of Krish Naik, then go through these books thoroughly to become greatly equipped in cracking any data science AI/ML interview.
+
 | Purpose/Stage                                   | Book Title                                                                                           | Author(s)                                     | Publisher/Year                               | File Format |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------|-------------|
 | **To begin with**                               | [Python Data Science Handbook: Essential Tools for Working with Data](#)                              | Jake VanderPlas                              | O'Reilly Media (2016)                       | PDF         |
