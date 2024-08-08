@@ -1,6 +1,8 @@
-# books_for_aiml
+# Books for AI/ML
 
-## Jake VanderPlas - Python Data Science Handbook.  Essential Tools for Working with Data-O'Reilly Media (2016).pdf>) 
-## Laurence Moroney - AI and Machine Learning for Coders_ A Programmer's Guide to Artificial Intelligence-O'Reilly Media (2020).pdf>) 
-## Alice Zheng, Amanda Casari - Feature Engineering for Machine Learning_ Principles and Techniques for Data Scientists-O’Reilly Media (2018).pdf>) 
-## Catherine Nelson - Software Engineering for Data Scientists_ From Notebooks to Scalable Systems-O'Reilly Media (2024).pdf>)
+| Purpose/Stage                                   | Book Title                                                                                           | Author(s)                                     | Publisher/Year                               | File Format |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------|-------------|
+| **To begin with**                               | [Python Data Science Handbook: Essential Tools for Working with Data](#)                              | Jake VanderPlas                              | O'Reilly Media (2016)                       | PDF         |
+| **For TensorFlow deep learning**                | [AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence](#)              | Laurence Moroney                             | O'Reilly Media (2020)                       | PDF         |
+| **Master this before anything else**            | [Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists](#)          | Alice Zheng, Amanda Casari                   | O'Reilly Media (2018)                       | PDF         |
+| **Will make you a great programmer**            | [Software Engineering for Data Scientists: From Notebooks to Scalable Systems](#)                     | Catherine Nelson                             | O'Reilly Media (2024)                       | PDF         |
